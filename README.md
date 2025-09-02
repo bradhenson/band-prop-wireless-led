@@ -1,1 +1,2 @@
-# band-prop-wireless-led
+
+A Wireless LED Lighting System for Marching Band Props
